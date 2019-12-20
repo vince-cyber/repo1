@@ -4,3 +4,4 @@ What happens if I edit the files here
 
 Press I in order to insert any writing here
 
+Second branch to commit here - would it work?
